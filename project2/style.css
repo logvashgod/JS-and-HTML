@@ -41,6 +41,12 @@ h2 {
   position: relative;
 }
 
+.form-control-email {
+  margin-bottom: 10px;
+  padding-bottom: 25px;
+  position: relative;
+}
+
 .form-control label {
   color: #777;
   display: block;
@@ -72,7 +78,6 @@ h2 {
 .form-control small {
   color: var(--error-color);
   position: absolute;
-  bottom: 0px;
   left: 0px;
   visibility: hidden;
 }

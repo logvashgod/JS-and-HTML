@@ -85,3 +85,7 @@ form.addEventListener("submit", function (e) {
   checkEmail(email);
   checkPasswordMatch(password, password2);
 });
+
+formControlChange = document.querySelector();
+
+email.classList.add(form - control - email);
